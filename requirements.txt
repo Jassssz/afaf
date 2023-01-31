@@ -6,4 +6,3 @@ gunicorn
 scikit-learn
 Flask-Pydantic
 pydantic
-sklearn
